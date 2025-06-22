@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/task-ignite/static/css/main.51ce6847.css",
-    "main.js": "/task-ignite/static/js/main.04b540b4.js",
+    "main.js": "/task-ignite/static/js/main.2e923dfb.js",
     "static/js/977.94c2acf5.chunk.js": "/task-ignite/static/js/977.94c2acf5.chunk.js",
     "static/js/455.623a5c2f.chunk.js": "/task-ignite/static/js/455.623a5c2f.chunk.js",
     "static/media/logo.jpg": "/task-ignite/static/media/logo.a56dd04ead8c591f1a76.jpg",
@@ -11,12 +11,12 @@
     "static/media/2f.jpg": "/task-ignite/static/media/2f.5c38a741384fcf0e22e3.jpg",
     "index.html": "/task-ignite/index.html",
     "main.51ce6847.css.map": "/task-ignite/static/css/main.51ce6847.css.map",
-    "main.04b540b4.js.map": "/task-ignite/static/js/main.04b540b4.js.map",
+    "main.2e923dfb.js.map": "/task-ignite/static/js/main.2e923dfb.js.map",
     "977.94c2acf5.chunk.js.map": "/task-ignite/static/js/977.94c2acf5.chunk.js.map",
     "455.623a5c2f.chunk.js.map": "/task-ignite/static/js/455.623a5c2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51ce6847.css",
-    "static/js/main.04b540b4.js"
+    "static/js/main.2e923dfb.js"
   ]
 }
